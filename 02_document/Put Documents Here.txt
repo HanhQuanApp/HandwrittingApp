@@ -1,0 +1,5 @@
+- guide: Setup guide, etc
+- mlearning: about Machine Learning
+- python
+- weekly_seminar: seminar ppt here
+- ref: reference document, etc
